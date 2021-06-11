@@ -1,4 +1,4 @@
-# Titanic_Cleaning_PowerQuery
+# Titanic_Wrangling_PowerQuery
 
 Attepted to wrangle the Titanic dataset using Excel's add-in Power Query
 
